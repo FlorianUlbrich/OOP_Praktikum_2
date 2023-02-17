@@ -1,6 +1,6 @@
 ### Modul Praktikum Objektorientierte Programmierung ###
 
-Aufgabe 2.1: Mendel's Land
+## Aufgabe 2.1: Mendel's Land
 <br>
 
 Beschreibung
